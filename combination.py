@@ -44,5 +44,4 @@ while True:
     if crickit.touch_4.value:
         color = random_color()
 
-
     time.sleep(0.05)
