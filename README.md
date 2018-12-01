@@ -1,5 +1,12 @@
 # Adafruit Circuit Playground Express and Crickit Tutorial
 
+## Materials
+* [Circuit Playground Express](https://www.adafruit.com/product/3333)
+* [Crickit for the CPX](https://www.adafruit.com/product/3093)
+* [Potentiometer](https://www.adafruit.com/product/562)
+* [Micro Servo](https://www.adafruit.com/product/169)
+* [Alligator Clips](https://www.adafruit.com/product/1008)
+
 ## Setup
 * Install [CircuitPython on the CPX](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-code)
 * Install [CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases)
@@ -12,7 +19,6 @@
 * Using CPX [NeoPixel LEDs](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-neopixel)
 * Using a [servo with a Crickit](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-servos)
 * Using capacitive [touch with a Crickit](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-touch)
-
 
 ## Examples
 * [Potentiometer](src/simple-potentiometer.py)
