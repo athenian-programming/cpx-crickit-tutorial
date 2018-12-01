@@ -22,6 +22,7 @@ def random_color():
     intensity = 20
     return (random.randint(0, intensity), random.randint(0, intensity), random.randint(0, intensity))
 
+
 while True:
     voltage = analogin.value / 65536
     print((voltage,))
