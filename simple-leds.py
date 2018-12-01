@@ -5,11 +5,10 @@ import board
 import neopixel
 
 pixels = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=.2)
-max_intensity = 20
-
 
 def random_color():
-    return (random.randint(0, max_intensity), random.randint(0, max_intensity), random.randint(0, max_intensity))
+    intensity = 20
+    return (random.randint(0, intensity), random.randint(0, intensity), random.randint(0, intensity))
 
 
 while True:
