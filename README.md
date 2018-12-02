@@ -12,17 +12,26 @@
 * Install [CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases)
 
 ## Reference
-* What is a [potentiometer](https://en.wikipedia.org/wiki/Potentiometer)?
 * Adafruit [Crickit Library docs](https://circuitpython.readthedocs.io/projects/crickit/en/latest/api.html)
-* Connecting a [potentiometer to a CPX](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-analog-in)
-* Using a CPX [with a potentiometer](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-analog-in)
-* Using CPX [NeoPixel LEDs](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-neopixel)
-* Using a [servo with a Crickit](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-servos)
-* Using capacitive [touch with a Crickit](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-touch)
 
 ## Examples
-* [Potentiometer](src/simple-potentiometer.py)
-* [Servo](src/simple-servo.py)
-* [LEDs](src/simple-leds.py)
-* [Capacitice Touch](src/simple-captouch.py)
-* [Combination](src/combination.py)
+
+### Potentiometer
+* What is a [potentiometer](https://en.wikipedia.org/wiki/Potentiometer)?
+* Using a CPX [with a potentiometer](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-analog-in)
+* [Code](src/simple-potentiometer.py)
+
+### Servo
+* Using a [servo with a Crickit](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-servos)
+* [Code](src/simple-servo.py)
+
+### NeoPixel LEDs
+* Using CPX [NeoPixel LEDs](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-neopixel)
+* [Code](src/simple-leds.py)
+
+### Capacitice Touch
+* Using capacitive [touch with a Crickit](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-touch)
+* [Code](src/simple-captouch.py)
+
+### Combination
+* [Code](src/combination.py)
